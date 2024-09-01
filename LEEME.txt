@@ -2,14 +2,4 @@ Este es el inicio de mi travesía para aprender a programar. Tengo 16 años , es
 Cada vez que te frustres , no puedas continuar , te sientas atacasdo , poco convencido y sin ganas , recuerda a tu pasado yo , aquel Johan que nunca agachaba la cara y esta dispuesto a darlo todo
 Recuerda cada vez que nos equivocabamos y nos reiamos de ello , recuerdas tus metas y sueños y lo que persigues.
 
-Mis Metas
-Cortos Plazo
-Acabare este 2024 , teniendo un nivel medio/basico de Python
-Acabare este 2024 , desarrolando mi primer sitio web
-Acabare este 2024 , Teniendo un nivel Medio de Ingles
 
-Mediano Plazo
-Empezaré a desarrollar un rom hack de Pokémon por hobby
-Me graduare
-Aprendere aun mas de Python
-Estudiaré la carrera Ingeniería en Sistemas.
