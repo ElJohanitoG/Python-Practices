@@ -1,9 +1,3 @@
-# Este es Mi primer intento de calculadora en Python.
-# Mi meta es llegar a ser programador.
-# Me Llamo Johan Rosales.
-# Este mundillo me atrapo desde muy joven. 
-# Hace aproxidamente 2 semanas empecé un curso de Python y HTML.
-# Pienso hacer otra calculadora usando while para hacer bien el bucle.
 
 
 
